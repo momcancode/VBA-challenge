@@ -21,8 +21,8 @@ The data is provided by Monash University Data Analytics Bootcamp.
 
 * Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
+---
+Contact:
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+Email: thao.ph.ha@gmail.com
 
