@@ -1,13 +1,8 @@
-# VBA challenge - The VBA of Wall Street
-
-
-## Where is the data from?
-
-The data is provided by Monash University Data Analytics Bootcamp.
+# The VBA of Wall Street - Use VBA scripting to analyse stock market data
 
 ## What did I do?
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+* Created a script that loops through all the stocks for one year and outputs the following information.
 
   * The ticker symbol.
 
@@ -17,12 +12,6 @@ The data is provided by Monash University Data Analytics Bootcamp.
 
   * The total stock volume of the stock.
 
-* Return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+* Returned the stock analysis with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
-* Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
-
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
-
+* Made the appropriate adjustments to the VBA script that allows it to run on every worksheet, i.e., every year, just by running the VBA script once.
